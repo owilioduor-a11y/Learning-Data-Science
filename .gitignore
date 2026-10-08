@@ -1,0 +1,20 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Local environments and datasets
+.venv/
+env/
+venv/
+data/
+*.csv
+*.parquet
+*.h5
+*.pkl
+
+# Operating system files
+Thumbs.db
+.DS_Store
