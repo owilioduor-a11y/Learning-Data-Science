@@ -2,17 +2,11 @@
 
 Learning Data science from beginner level to advance
 
-
-
-\# Learning Data Science Project 📊
-
-
-
 A comprehensive repository documenting my data science learning journey, data cleaning pipelines, text extraction workflows, and exploratory data analysis notebooks.
 
 
 
-\## 📂 Project Structure
+## 📂 Project Structure
 
 
 
@@ -26,7 +20,7 @@ A comprehensive repository documenting my data science learning journey, data cl
 
 
 
-\## 🛠️ Environment Setup \& Installation
+### 🛠️ Environment Setup \& Installation
 
 
 
@@ -34,5 +28,5 @@ To set up and run this environment locally on Windows 11:
 
 
 
-1\. Clone the repository:
+1\. Clone the repository: git clone https://github.com/owilioduor-a11y/Learning-Data-Science.git
 
